@@ -1,0 +1,5 @@
+In a Gitbash we have to clone the code first then we have to setup some credentials....
+
+git config --global user.name "riyaz1121"
+git config --global user.email "riyasshaik786@gmail.com"
+git config --list
